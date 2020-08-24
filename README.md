@@ -21,4 +21,12 @@ Tham gia vào group [Code cùng Hinodi](https://www.facebook.com/groups/codecung
  - Sử dụng một số trang share code JS như: [CodePen](https://codepen.io/), [JS Bin](https://jsbin.com/), [SSFiddle](https://jsfiddle.net/), [CodeSandbox](https://codesandbox.io/) ... hoặc một số trang tương tự để upload code và lấy link
  - Nộp link source code thông qua tin nhắn facebook https://www.messenger.com/t/hinodi1998
  - Deadline, hạn chót nộp source code là ```23:59 thứ 7 ngày 29/08/2020```
+ ## Khác - Các bài học về React Native
+ - React Native cơ bản: https://www.youtube.com/watch?v=9XwrSotF-EQ&list=PL7mLOOXvxCQt7zO285MDPb44-C_4qgh9m
+ - React Native nâng cao: https://www.youtube.com/watch?v=ldqLiN3BgOQ&list=PL7mLOOXvxCQuKSMJkIn15A3O8Vj48sauh
+ - Livestream: https://www.youtube.com/watch?v=Nxqb4vqp-fk&list=PL7mLOOXvxCQtS6LwtprTPeLrgFzlH1tU-
+ - Clone App: https://www.youtube.com/watch?v=rGnMTseCdUo&list=PL7mLOOXvxCQsOUajx7k7YZ5NknO1IYGaR
 
+ - Subscribe tại đây: https://www.youtube.com/channel/UCB2IeuRdHvdELp2Dt8EEdww?sub_confirmation=1
+ - Fanpage https://www.facebook.com/codecunghinodi/
+ - Group: https://fb.com/groups/codecunghinodi/
