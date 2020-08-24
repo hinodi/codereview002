@@ -2,7 +2,7 @@
 Deadline, hạn chót nộp source code là **23:59 thứ 7 ngày 29/08/2020**
 Tham gia vào group [Code cùng Hinodi](https://www.facebook.com/groups/codecunghinodi) để nhận được những thông báo mới nhất
 ## Review
- - Sẽ có một số source code đã nộp được chọn để review trực tiếp trong livestream 
+ - Sẽ có một số source code đã nộp được chọn để review trực tiếp trong livestream tại [Kênh Youtube](https://www.youtube.com/channel/UCB2IeuRdHvdELp2Dt8EEdww?sub_confirmation=1)
  - Livestream tổng hợp những điểm tốt/xấu của các source code đã nộp
 ## Yêu cầu
  - Một màn hình duy nhất. Code màn hình đó trên một file duy nhất
